@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Durgesh1392
-- 👀 I’m interested in Python, Django, Machine learning
+- 👀 I’m interested in Python, Django, Java
 - 🌱 I’m currently learning Various aspects of python development
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me at Durgesh.kumar.mnnit@gmail.com
