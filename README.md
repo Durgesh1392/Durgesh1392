@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Durgesh1392
-- 👀 I’m interested in Python, Django, Java
-- 🌱 I’m currently learning Various aspects of python development
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 👀 I’m interested in Java, Spring Boot and RESTful Api's.
+- 🌱 I’m currently learning Various aspects of Spring Boot development
+- 💞️ I’m looking to collaborate on Spring Boot Projects
 - 📫 How to reach me at Durgesh.kumar.mnnit@gmail.com
 
 <!---
